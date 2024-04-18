@@ -1,0 +1,8 @@
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/vo/StudentVO.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/dto/StudentDTO.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/singleton/ConnectionSingleton.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/singleton/DbParameters.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/dao/StudentDAOImpl.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/servlet/StudentRegistrationServlet.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/dao/StudentDAO.java
+/Users/w4e/Documents/academy-02-03-2024/SERVLET_EJB_JSP_WEB_APPLICATION/src/main/java/com/sistemi/informativi/connection/ConnectionManager.java
